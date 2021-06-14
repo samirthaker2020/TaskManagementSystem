@@ -1,0 +1,40 @@
+ @import url('https://fonts.googleapis.com/css?family=Roboto' );
+ .login
+ {
+	height:400px;
+	width:40%;
+	border:1px thin black;
+	border-radius:7px; 
+	background-color:#193040;
+	box-shadow: 10px 10px 5px grey;
+	 margin-top:50px;
+	 color:black;
+	 font-size:18px;
+	  font-family:Roboto;
+	  font-weight:bold;
+	 }
+ 
+	 .forgot
+ {
+	height:300px;
+	width:40%;
+	border:1px thin black;
+	border-radius:7px; 
+	background-color:#193040;
+	box-shadow: 10px 10px 5px grey;
+	 margin-top:50px;
+	 color:black;
+	 font-size:18px;
+	  font-family:Roboto;
+	  font-weight:bold;
+	 }
+ .reg{
+		background-color:#03C; 
+	 }
+ #maindiv1
+ {
+	float: left;
+	 width: 60%;
+	 border: 1px solid black;
+	 height: 500px;
+ }
